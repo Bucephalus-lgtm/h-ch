@@ -1,0 +1,1882 @@
+[
+    {
+        "A": 1,
+        "B": 6018,
+        "C": "TULSHI KALAKHETI",
+        "D": 1914072,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.73381294964029
+    },
+    {
+        "C": "DEBADIPTO BISWAS",
+        "D": 1914168,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.73381294964029,
+        "B": 6018
+    },
+    {
+        "C": "NIPAM DAS",
+        "D": 1911034,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.73188405797101,
+        "B": 6018
+    },
+    {
+        "A": 2,
+        "B": 6019,
+        "C": "RAHUL CHOURASIA",
+        "D": 1911065,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.73188405797101
+    },
+    {
+        "C": "BHARGAB PROTIM LIGIRA",
+        "D": 1915002,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.73188405797101,
+        "B": 6019
+    },
+    {
+        "C": "PANKAJ KUMAR",
+        "D": 1913130,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.72661870503597,
+        "B": 6019
+    },
+    {
+        "A": 3,
+        "B": 6020,
+        "C": "MRINMOY MONDAL",
+        "D": 1912049,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.72463768115942
+    },
+    {
+        "C": "SOUREEN CHANDA",
+        "D": 1915005,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.72463768115942,
+        "B": 6020
+    },
+    {
+        "C": "VIVEK SINGH",
+        "D": 1916053,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.72463768115942,
+        "B": 6020
+    },
+    {
+        "A": 4,
+        "B": 6021,
+        "C": "SAURABH KUMAR",
+        "D": 1916120,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.72463768115942
+    },
+    {
+        "C": "NISHANK SINHA",
+        "D": 1913011,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.71942446043166,
+        "B": 6021
+    },
+    {
+        "C": "Pintu Das",
+        "D": 1914004,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.71942446043166,
+        "B": 6021
+    },
+    {
+        "A": 5,
+        "B": 6022,
+        "C": "NAYAN DEKA",
+        "D": 1911016,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.71739130434783
+    },
+    {
+        "C": "MONJUL BORUAH",
+        "D": 1915023,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.71739130434783,
+        "B": 6022
+    },
+    {
+        "C": "MANASH JYOTI BORA",
+        "D": 1916041,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.71739130434783,
+        "B": 6022
+    },
+    {
+        "A": 6,
+        "B": 6023,
+        "C": "RAVI MISHRA",
+        "D": 1913112,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.71223021582734
+    },
+    {
+        "C": "MUKIB KHAN",
+        "D": 1914034,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.71223021582734,
+        "B": 6023
+    },
+    {
+        "C": "AARYAN OHEKAR",
+        "D": 1914146,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.71223021582734,
+        "B": 6023
+    },
+    {
+        "A": 7,
+        "B": 6024,
+        "C": "NUTHALAPATI SAI THARUN",
+        "D": 1911143,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.71014492753623
+    },
+    {
+        "C": "ADDANKI VAMSI KRISHNA",
+        "D": 1912111,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.71014492753623,
+        "B": 6024
+    },
+    {
+        "C": "AMALENDU KUMAR",
+        "D": 1915041,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.71014492753623,
+        "B": 6024
+    },
+    {
+        "A": 8,
+        "B": 6025,
+        "C": "SAYANTAN DAS",
+        "D": 1916102,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.71014492753623
+    },
+    {
+        "C": "THOTA SANTHOSH",
+        "D": 1916114,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.71014492753623,
+        "B": 6025
+    },
+    {
+        "C": "DIVYANSHU KUMAR",
+        "D": 1914035,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.70503597122302,
+        "B": 6025
+    },
+    {
+        "A": 9,
+        "B": 6026,
+        "C": "SANTANU BARUAH",
+        "D": 1912029,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.70289855072464
+    },
+    {
+        "C": "Amlan Kalita",
+        "D": 1913036,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.69784172661871,
+        "B": 6026
+    },
+    {
+        "C": "ABHISHEK ANAND",
+        "D": 1913072,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.69784172661871,
+        "B": 6026
+    },
+    {
+        "A": 10,
+        "B": 6027,
+        "C": "AVULAMANDA HEMANTH BHARGAV",
+        "D": 1915069,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.68840579710145
+    },
+    {
+        "C": "JYOTISHMAN GOGOI",
+        "D": 1913020,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.68345323741007,
+        "B": 6027
+    },
+    {
+        "C": "JUBARAJ KAKATI",
+        "D": 1911053,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.68115942028986,
+        "B": 6027
+    },
+    {
+        "A": 11,
+        "B": 6028,
+        "C": "SHAILESH VERMA",
+        "D": 1911113,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.67391304347826
+    },
+    {
+        "C": "SONU KUMAR",
+        "D": 1911142,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.67391304347826,
+        "B": 6028
+    },
+    {
+        "C": "SHARAD VERMA",
+        "D": 1911005,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.66666666666667,
+        "B": 6028
+    },
+    {
+        "A": 12,
+        "B": 6029,
+        "C": "HIMANSHU SINGH",
+        "D": 1911140,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.65942028985507
+    },
+    {
+        "C": "PRATIK GUPTA",
+        "D": 1912077,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.65942028985507,
+        "B": 6029
+    },
+    {
+        "C": "SHINAGAM CHANDRA MOULI",
+        "D": 1912143,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.65942028985507,
+        "B": 6029
+    },
+    {
+        "A": 13,
+        "B": 6030,
+        "C": "SUJAN BHOWAL",
+        "D": 1915061,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.65942028985507
+    },
+    {
+        "C": "RISHAV KUMAR",
+        "D": 1911147,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.65217391304348,
+        "B": 6030
+    },
+    {
+        "C": "NAZIBUL OMAR",
+        "D": 1912118,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.65217391304348,
+        "B": 6030
+    },
+    {
+        "A": 14,
+        "B": 6031,
+        "C": "ADITYA CHAUDHARY",
+        "D": 1913101,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.64748201438849
+    },
+    {
+        "C": "EEDHI KIRAN KUMAR",
+        "D": 1913047,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.64028776978417,
+        "B": 6031
+    },
+    {
+        "C": "POTHU SHESHANK CHANDRA",
+        "D": 1913128,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.63309352517986,
+        "B": 6031
+    },
+    {
+        "A": 15,
+        "B": 6032,
+        "C": "AMIT PRASAD",
+        "D": 1914081,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.63309352517986
+    },
+    {
+        "C": "RAJKUMAR PATIDAR",
+        "D": 1911131,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.6304347826087,
+        "B": 6032
+    },
+    {
+        "C": "NELLURI SAMBASIVA RAO",
+        "D": 1913157,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.62589928057554,
+        "B": 6032
+    },
+    {
+        "A": 16,
+        "B": 6033,
+        "C": "KUSHAGRA KUMAR",
+        "D": 1914060,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.62589928057554
+    },
+    {
+        "C": "SESHAM SHISHIR",
+        "D": 1914158,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.62589928057554,
+        "B": 6033
+    },
+    {
+        "C": "ANURAG GOGOI",
+        "D": 1911116,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.6231884057971,
+        "B": 6033
+    },
+    {
+        "A": 17,
+        "B": 6034,
+        "C": "RAJNISH KUMAR MAURYA",
+        "D": 1913059,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.61870503597122
+    },
+    {
+        "C": "ANKIT SINGH",
+        "D": 1916027,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.61594202898551,
+        "B": 6034
+    },
+    {
+        "C": "NILOTPAL ROY",
+        "D": 1916071,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.61594202898551,
+        "B": 6034
+    },
+    {
+        "A": 18,
+        "B": 6035,
+        "C": "MRINMOI BORAH",
+        "D": 1916069,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.60869565217391
+    },
+    {
+        "C": "DIPON  SAIKIA",
+        "D": 1916072,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.60144927536232,
+        "B": 6035
+    },
+    {
+        "C": "NAVONEEL DEBNATH",
+        "D": 1911060,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.59420289855072,
+        "B": 6035
+    },
+    {
+        "A": 19,
+        "B": 6036,
+        "C": "RAKTIM JYOTI BHARADWAJ",
+        "D": 1916026,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.59420289855072
+    },
+    {
+        "C": "JITUL TERON",
+        "D": 1916083,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.59420289855072,
+        "B": 6036
+    },
+    {
+        "C": "THODIME VISHNU VARDHAN REDDY",
+        "D": 1916100,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.59420289855072,
+        "B": 6036
+    },
+    {
+        "A": 20,
+        "B": 6037,
+        "C": "ABHIJEET CHOUDHURY",
+        "D": 1911067,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.58695652173913
+    },
+    {
+        "C": "NITESH KR GUPTA",
+        "D": 1911101,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.58695652173913,
+        "B": 6037
+    },
+    {
+        "C": "SANJAY S",
+        "D": 1915049,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.58695652173913,
+        "B": 6037
+    },
+    {
+        "A": 21,
+        "B": 6038,
+        "C": "ANGSHUMAN DAS",
+        "D": 1914116,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.58273381294964
+    },
+    {
+        "C": "ABHISHEK BARMAN",
+        "D": 1911014,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.57971014492754,
+        "B": 6038
+    },
+    {
+        "C": "SWAPNIL ROY",
+        "D": 1911019,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.57971014492754,
+        "B": 6038
+    },
+    {
+        "A": 22,
+        "B": 6039,
+        "C": "BANAVATH UDAYKIRAN NAIK",
+        "D": 1914127,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.57553956834532
+    },
+    {
+        "C": "NARESH KUMAR MAKWANA",
+        "D": 1912022,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.57246376811594,
+        "B": 6039
+    },
+    {
+        "C": "SUMAN DAS",
+        "D": 1912031,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.57246376811594,
+        "B": 6039
+    },
+    {
+        "A": 23,
+        "B": 6040,
+        "C": "Ripunjoy Brahma",
+        "D": 1912063,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.57246376811594
+    },
+    {
+        "C": "CHAPPIDI HASWANTH SRI SAI SURYA CHANDRA",
+        "D": 1916148,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.57246376811594,
+        "B": 6040
+    },
+    {
+        "C": "Sauvik Neogi",
+        "D": 1913061,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.56834532374101,
+        "B": 6040
+    },
+    {
+        "A": 24,
+        "B": 6041,
+        "C": "SUDHANSHU TIWARI",
+        "D": 1911097,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.56521739130435
+    },
+    {
+        "C": "VISHAL PANDEY",
+        "D": 1911026,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.55797101449275,
+        "B": 6041
+    },
+    {
+        "C": "Deepjyoti Pator",
+        "D": 1912051,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.55797101449275,
+        "B": 6041
+    },
+    {
+        "A": 25,
+        "B": 6042,
+        "C": "SINMOY THAKURIA",
+        "D": 1916005,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.55797101449275
+    },
+    {
+        "C": "KAUSHIK DAS",
+        "D": 1916017,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.55797101449275,
+        "B": 6042
+    },
+    {
+        "C": "KARRI SAI VENKATA REDDY",
+        "D": 1914115,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.55395683453237,
+        "B": 6042
+    },
+    {
+        "A": 26,
+        "B": 6043,
+        "C": "RAHUL YAJJALA",
+        "D": 1911088,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.55072463768116
+    },
+    {
+        "C": "BHARGAB NATH",
+        "D": 1912019,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.55072463768116,
+        "B": 6043
+    },
+    {
+        "C": "NAYAN JYOTI SAIKIA",
+        "D": 1911079,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.54347826086956,
+        "B": 6043
+    },
+    {
+        "A": 27,
+        "B": 6044,
+        "C": "Kotari Aditya",
+        "D": 1912093,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.54347826086956
+    },
+    {
+        "C": "JYOTIRADITYA BHATTACHARJEE",
+        "D": 1916061,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.54347826086956,
+        "B": 6044
+    },
+    {
+        "C": "SANDEEP KUMAR",
+        "D": 1916115,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.54347826086956,
+        "B": 6044
+    },
+    {
+        "A": 28,
+        "B": 6045,
+        "C": "PAWAN KUMAR SAH",
+        "D": 1916149,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.54347826086956
+    },
+    {
+        "C": "PALLAB JYOTI BAISHYA",
+        "D": 1913051,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.53956834532374,
+        "B": 6045
+    },
+    {
+        "C": "KARUNA RABHA",
+        "D": 1914024,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.53956834532374,
+        "B": 6045
+    },
+    {
+        "A": 29,
+        "B": 6046,
+        "C": "SURAJEET BARMAN",
+        "D": 1914083,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.53956834532374
+    },
+    {
+        "C": "RAM AVATAR",
+        "D": 1916091,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.53623188405797,
+        "B": 6046
+    },
+    {
+        "C": "ADARSH MISHRA",
+        "D": 1916143,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.53623188405797,
+        "B": 6046
+    },
+    {
+        "A": 30,
+        "B": 6047,
+        "C": "SAMPATHIRAO KARTHIKRAJU",
+        "D": 1913156,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.53237410071942
+    },
+    {
+        "C": "GRANDHI SATYA SRAVAN",
+        "D": 1914066,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.53237410071942,
+        "B": 6047
+    },
+    {
+        "C": "NANDAN KUMAR",
+        "D": 1915020,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.52898550724638,
+        "B": 6047
+    },
+    {
+        "A": 31,
+        "B": 6048,
+        "C": "MASETTI VENKATA KRISHNA SAI PRATHEEK",
+        "D": 1915062,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.52898550724638
+    },
+    {
+        "C": "GOLLA AKHESH KUMAR",
+        "D": 1911096,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.52173913043478,
+        "B": 6048
+    },
+    {
+        "C": "GUDDU KUMAR YADAV",
+        "D": 1911150,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.52173913043478,
+        "B": 6048
+    },
+    {
+        "A": 32,
+        "B": 6049,
+        "C": "Sukh Dev Suthar",
+        "D": 1912119,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.52173913043478
+    },
+    {
+        "C": "CHANDAN KUMAR",
+        "D": 1912135,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.52173913043478,
+        "B": 6049
+    },
+    {
+        "C": "Anas Ahamed SJ",
+        "D": 1915073,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.52173913043478,
+        "B": 6049
+    },
+    {
+        "A": 33,
+        "B": 6050,
+        "C": "BODA SHASHANK GOVIL NAIK",
+        "D": 1913070,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.51798561151079
+    },
+    {
+        "C": "PANKAJ KUMAR",
+        "D": 1914157,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.51798561151079,
+        "B": 6050
+    },
+    {
+        "C": "TEJAS SANGALE",
+        "D": 1912114,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.51449275362319,
+        "B": 6050
+    },
+    {
+        "A": 34,
+        "B": 6051,
+        "C": "PIYUSH KUMAR",
+        "D": 1911061,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.50724637681159
+    },
+    {
+        "C": "AVILASH NATH",
+        "D": 1914111,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.50359712230216,
+        "B": 6051
+    },
+    {
+        "C": "TRIDIP BORAH",
+        "D": 1916050,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.5,
+        "B": 6051
+    },
+    {
+        "A": 35,
+        "B": 6052,
+        "C": "RAHUL BORA",
+        "D": 1911013,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.49275362318841
+    },
+    {
+        "C": "PALASH PRATIM DEKA",
+        "D": 1912097,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.49275362318841,
+        "B": 6052
+    },
+    {
+        "C": "RAJANI KANT SINGH",
+        "D": 1916108,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.49275362318841,
+        "B": 6052
+    },
+    {
+        "A": 36,
+        "B": 6053,
+        "C": "SUNIL KUMAR MULKALA",
+        "D": 1913113,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.48920863309353
+    },
+    {
+        "C": "KISMAT DAS",
+        "D": 1911074,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.48550724637681,
+        "B": 6053
+    },
+    {
+        "C": "PAWAN GUPTA",
+        "D": 1916126,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.48550724637681,
+        "B": 6053
+    },
+    {
+        "A": 37,
+        "B": 6054,
+        "C": "KANDULA JASHWANTH",
+        "D": 1913027,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.48201438848921
+    },
+    {
+        "C": "YOGESH KAKODIYA",
+        "D": 1913139,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.48201438848921,
+        "B": 6054
+    },
+    {
+        "C": "PRABAL KUMAR DAS",
+        "D": 1914041,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.48201438848921,
+        "B": 6054
+    },
+    {
+        "A": 38,
+        "B": 6055,
+        "C": "SUMIT PRASAD",
+        "D": 1914080,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.48201438848921
+    },
+    {
+        "C": "NEHAL CHOUDHURY",
+        "D": 1912141,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.47826086956522,
+        "B": 6055
+    },
+    {
+        "C": "GAURAV GOGOI",
+        "D": 1914044,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.47482014388489,
+        "B": 6055
+    },
+    {
+        "A": 39,
+        "B": 6056,
+        "C": "SHASHI KUMAR",
+        "D": 1911083,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.47101449275362
+    },
+    {
+        "C": "ANIK SARKAR",
+        "D": 1912005,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.47101449275362,
+        "B": 6056
+    },
+    {
+        "C": "KARINGULA LINGASWAMI",
+        "D": 1915032,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.47101449275362,
+        "B": 6056
+    },
+    {
+        "A": 40,
+        "B": 6057,
+        "C": "Prottay Kumar Adhikary",
+        "D": 1912157,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.46376811594203
+    },
+    {
+        "C": "VASWATA RANJAN",
+        "D": 1912102,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.45652173913044,
+        "B": 6057
+    },
+    {
+        "C": "SWARUP DAS",
+        "D": 1915015,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.45652173913044,
+        "B": 6057
+    },
+    {
+        "A": 41,
+        "B": 6058,
+        "C": "SRI DANTULURI MOHITH VARMA",
+        "D": 1914020,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.45323741007194
+    },
+    {
+        "C": "APOORV AADARSH",
+        "D": 1911148,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.44927536231884,
+        "B": 6058
+    },
+    {
+        "C": "RISHABH MISHRA",
+        "D": 1916021,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.44202898550725,
+        "B": 6058
+    },
+    {
+        "A": 42,
+        "B": 6059,
+        "C": "ASHOK DEB",
+        "D": 1916057,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.44202898550725
+    },
+    {
+        "C": "HEMANGA NATH",
+        "D": 1916097,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.44202898550725,
+        "B": 6059
+    },
+    {
+        "C": "AROONIM GOSWAMI",
+        "D": 1914040,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.43884892086331,
+        "B": 6059
+    },
+    {
+        "A": 43,
+        "B": 6060,
+        "C": "NITESH KUMAR SAH",
+        "D": 1914089,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.43884892086331
+    },
+    {
+        "C": "NABANIT DAS",
+        "D": 1911125,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.43478260869565,
+        "B": 6060
+    },
+    {
+        "C": "NIHAR JYOTI BASISTH",
+        "D": 1912099,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.43478260869565,
+        "B": 6060
+    },
+    {
+        "A": 44,
+        "B": 6061,
+        "C": "MRIGENDRA SINGH",
+        "D": 1916044,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.43478260869565
+    },
+    {
+        "C": "PROTEEK GHOSH",
+        "D": 1913103,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.43165467625899,
+        "B": 6061
+    },
+    {
+        "C": "partha pratim choudhury",
+        "D": 1914077,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.43165467625899,
+        "B": 6061
+    },
+    {
+        "A": 45,
+        "B": 6062,
+        "C": "SAHIN DAS",
+        "D": 1913015,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.42446043165468
+    },
+    {
+        "C": "Ayus adarsh",
+        "D": 1911145,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.42028985507246,
+        "B": 6062
+    },
+    {
+        "C": "YASHWANT KUMAR",
+        "D": 1911040,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.41304347826087,
+        "B": 6062
+    },
+    {
+        "A": 46,
+        "B": 6063,
+        "C": "PARTHA JYOTI DAS",
+        "D": 1911070,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.41304347826087
+    },
+    {
+        "C": "NIKHIL CHOUDHARY",
+        "D": 1912131,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.41304347826087,
+        "B": 6063
+    },
+    {
+        "C": "RAHUL GUPTA",
+        "D": 1916151,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.41304347826087,
+        "B": 6063
+    },
+    {
+        "A": 47,
+        "B": 6064,
+        "C": "B PAVAN KALYAN",
+        "D": 1915048,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.40579710144928
+    },
+    {
+        "C": "BENDI RAGHU SAI",
+        "D": 1913140,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.40287769784173,
+        "B": 6064
+    },
+    {
+        "C": "AMAR CHETRI",
+        "D": 1914023,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.40287769784173,
+        "B": 6064
+    },
+    {
+        "A": 48,
+        "B": 6065,
+        "C": "AZAD ALI",
+        "D": 1912120,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.39855072463768
+    },
+    {
+        "C": "JUMAN BHUYAN",
+        "D": 1916059,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.39855072463768,
+        "B": 6065
+    },
+    {
+        "C": "SUNNY SONOWAL",
+        "D": 1913045,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.39568345323741,
+        "B": 6065
+    },
+    {
+        "A": 49,
+        "B": 6066,
+        "C": "HARIT PRABAAL DAS",
+        "D": 1916118,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.39130434782609
+    },
+    {
+        "C": "PRAJEESH KAKKARATH",
+        "D": 1916122,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.39130434782609,
+        "B": 6066
+    },
+    {
+        "C": "UTSAV CHOWDHURY",
+        "D": 1911111,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.38405797101449,
+        "B": 6066
+    },
+    {
+        "A": 50,
+        "B": 6067,
+        "C": "ADITYA GUJRATI",
+        "D": 1912123,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.38405797101449
+    },
+    {
+        "C": "TALLAPALLI MURALI KRISHNA",
+        "D": 1913122,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.38129496402878,
+        "B": 6067
+    },
+    {
+        "C": "SUBHAM PATAR",
+        "D": 1912088,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.3768115942029,
+        "B": 6067
+    },
+    {
+        "A": 51,
+        "B": 6068,
+        "C": "ADITYA DAS",
+        "D": 1916084,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.3768115942029
+    },
+    {
+        "C": "BIKASH THAKUR",
+        "D": 1916137,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.3768115942029,
+        "B": 6068
+    },
+    {
+        "C": "DHANSINGH MEENA",
+        "D": 1913111,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.37410071942446,
+        "B": 6068
+    },
+    {
+        "A": 52,
+        "B": 6069,
+        "C": "Hrishikesh Dutta",
+        "D": 1912057,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.3695652173913
+    },
+    {
+        "C": "KADIMI VARUN CHANDRA SAI",
+        "D": 1912163,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.3695652173913,
+        "B": 6069
+    },
+    {
+        "C": "KARTHEEK YERUKOLA",
+        "D": 1914084,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.36690647482014,
+        "B": 6069
+    },
+    {
+        "A": 53,
+        "B": 6070,
+        "C": "VADITHYA AKASH",
+        "D": 1911114,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.36231884057971
+    },
+    {
+        "C": "MANAS MISHRA",
+        "D": 1912044,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.36231884057971,
+        "B": 6070
+    },
+    {
+        "C": "ABHISEK NATH",
+        "D": 1916010,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.36231884057971,
+        "B": 6070
+    },
+    {
+        "A": 54,
+        "B": 6071,
+        "C": "HARSHIT KUMAR",
+        "D": 1911102,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.35507246376812
+    },
+    {
+        "C": "DANTHAM. AKASH",
+        "D": 1912162,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.35507246376812,
+        "B": 6071
+    },
+    {
+        "C": "GUDIBANDLA ALOK",
+        "D": 1915074,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.34782608695652,
+        "B": 6071
+    },
+    {
+        "A": 55,
+        "B": 6072,
+        "C": "Pratyush Rai",
+        "D": 1916048,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.34782608695652
+    },
+    {
+        "C": "SHAILENDRA KUMAR",
+        "D": 1916062,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.34782608695652,
+        "B": 6072
+    },
+    {
+        "C": "RAHUL KUMAR GUPTA",
+        "D": 1914014,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.34532374100719,
+        "B": 6072
+    },
+    {
+        "A": 56,
+        "B": 6073,
+        "C": "VICKY KUMAR",
+        "D": 1915067,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 8.34057971014493
+    },
+    {
+        "C": "NAZMUL HOQUE CHOUDHURY",
+        "D": 1913041,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.33093525179856,
+        "B": 6073
+    },
+    {
+        "C": "HRISHIKESH GOGOI",
+        "D": 1914025,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.32374100719425,
+        "B": 6073
+    },
+    {
+        "A": 57,
+        "B": 6074,
+        "C": "ANJAN PATOWARY",
+        "D": 1914094,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.32374100719425
+    },
+    {
+        "C": "SAURAV DAS",
+        "D": 1912032,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 8.31884057971014,
+        "B": 6074
+    },
+    {
+        "C": "NEERAJ BAISHYA",
+        "D": 1916016,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.31884057971014,
+        "B": 6074
+    },
+    {
+        "A": 58,
+        "B": 6075,
+        "C": "Sudamalla Sriramana",
+        "D": 1916093,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.31884057971014
+    },
+    {
+        "C": "AYUSH SINHA",
+        "D": 1914129,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.31654676258993,
+        "B": 6075
+    },
+    {
+        "C": "JAHIDUL ALI",
+        "D": 1916113,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 8.31159420289855,
+        "B": 6075
+    },
+    {
+        "A": 59,
+        "B": 6076,
+        "C": "ARJUN DAS",
+        "D": 1913019,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 8.30935251798561
+    },
+    {
+        "C": "MD TARIQUE",
+        "D": 1911103,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 8.30434782608696,
+        "B": 6076
+    },
+    {
+        "C": "RANJAN BARUAH",
+        "D": 1914058,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 8.30215827338129,
+        "B": 6076
+    },
+    {
+        "A": 1,
+        "B": 6232,
+        "C": "ARJUN KUMAR",
+        "D": 1915080,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 9.52898550724638
+    },
+    {
+        "A": 2,
+        "B": 6233,
+        "C": "JAYATU DHRUBA BARUA",
+        "D": 1914110,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 9.51798561151079
+    },
+    {
+        "A": 3,
+        "B": 6234,
+        "C": "UDIPTA KUMAR BORAH",
+        "D": 1916046,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 9.51449275362319
+    },
+    {
+        "A": 4,
+        "B": 6235,
+        "C": "ABHIMANYU GIRI",
+        "D": 1916052,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 9.51449275362319
+    },
+    {
+        "A": 5,
+        "B": 6236,
+        "C": "ANINDYA SUNDAR SAIKIA",
+        "D": 1913067,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 9.50359712230216
+    },
+    {
+        "A": 6,
+        "B": 6237,
+        "C": "ANGSHUMAN BHOWMIK",
+        "D": 1912052,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.5
+    },
+    {
+        "A": 7,
+        "B": 6238,
+        "C": "BILEY ROY",
+        "D": 1912045,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.49275362318841
+    },
+    {
+        "A": 8,
+        "B": 6239,
+        "C": "SAURAV KUMAR KARN",
+        "D": 1913081,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 9.48920863309353
+    },
+    {
+        "A": 9,
+        "B": 6240,
+        "C": "RAJARSHI DAS",
+        "D": 1914182,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 9.48201438848921
+    },
+    {
+        "A": 10,
+        "B": 6241,
+        "C": "SUBHAJEET DEY",
+        "D": 1912008,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.47101449275362
+    },
+    {
+        "A": 11,
+        "B": 6242,
+        "C": "HIMANGAN SARMA",
+        "D": 1915031,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 9.47101449275362
+    },
+    {
+        "A": 12,
+        "B": 6243,
+        "C": "SHIVAM KUMAR",
+        "D": 1912174,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.46376811594203
+    },
+    {
+        "A": 13,
+        "B": 6244,
+        "C": "DEBOJYOTI DAS",
+        "D": 1915001,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 9.46376811594203
+    },
+    {
+        "A": 14,
+        "B": 6245,
+        "C": "NIKUNJ LOHIA",
+        "D": 1912173,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.45652173913044
+    },
+    {
+        "A": 15,
+        "B": 6246,
+        "C": "SHUBHAM KUMAR",
+        "D": 1914175,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 9.45323741007194
+    },
+    {
+        "A": 16,
+        "B": 6247,
+        "C": "YASHDEEP SARMAH",
+        "D": 1911039,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 9.44927536231884
+    },
+    {
+        "A": 17,
+        "B": 6248,
+        "C": "KAUSHIK MAHANTA",
+        "D": 1916009,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 9.44927536231884
+    },
+    {
+        "A": 18,
+        "B": 6249,
+        "C": "ABHISHEK KUMAR",
+        "D": 1913030,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 9.44604316546763
+    },
+    {
+        "A": 19,
+        "B": 6250,
+        "C": "AADI VERMA",
+        "D": 1914183,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 9.44604316546763
+    },
+    {
+        "A": 20,
+        "B": 6251,
+        "C": "AMAN DWIVEDI",
+        "D": 1913054,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 9.43884892086331
+    },
+    {
+        "A": 21,
+        "B": 6252,
+        "C": "TANGUTURI SANDEEP KUMAR",
+        "D": 1914169,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 9.43165467625899
+    },
+    {
+        "A": 22,
+        "B": 6253,
+        "C": "BHARAT GAUR",
+        "D": 1915053,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 9.42753623188406
+    },
+    {
+        "A": 23,
+        "B": 6254,
+        "C": "GAUTAM TIWARI",
+        "D": 1914167,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 9.42446043165468
+    },
+    {
+        "A": 24,
+        "B": 6255,
+        "C": "NILANJAN DAS",
+        "D": 1911069,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 9.42028985507246
+    },
+    {
+        "A": 25,
+        "B": 6256,
+        "C": "REKHAV DAS",
+        "D": 1914048,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 9.41726618705036
+    },
+    {
+        "A": 26,
+        "B": 6257,
+        "C": "MANASH PROTIM GOSWAMI",
+        "D": 1911050,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 9.40579710144928
+    },
+    {
+        "A": 27,
+        "B": 6258,
+        "C": "ABHINASH KUMAR GIRI",
+        "D": 1912011,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.40579710144928
+    },
+    {
+        "A": 28,
+        "B": 6259,
+        "C": "UDOI SHANKAR GOGOI",
+        "D": 1912167,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.40579710144928
+    },
+    {
+        "A": 29,
+        "B": 6260,
+        "C": "RISHAV SAHA",
+        "D": 1914177,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 9.40287769784173
+    },
+    {
+        "A": 30,
+        "B": 6261,
+        "C": "TRISHANKU SARMA",
+        "D": 1912171,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.39855072463768
+    },
+    {
+        "A": 31,
+        "B": 6262,
+        "C": "ASHISH KUMAR JHA",
+        "D": 1915028,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 9.39855072463768
+    },
+    {
+        "A": 32,
+        "B": 6263,
+        "C": "DEVARUN SHARMA",
+        "D": 1916094,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 9.39130434782609
+    },
+    {
+        "A": 33,
+        "B": 6264,
+        "C": "Mritunjay Aman",
+        "D": 1912170,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.38405797101449
+    },
+    {
+        "A": 34,
+        "B": 6265,
+        "C": "CHIRONTAN BHUYAN",
+        "D": 1916158,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 9.38405797101449
+    },
+    {
+        "A": 35,
+        "B": 6266,
+        "C": "ANKIT KUMAR GUPTA",
+        "D": 1913093,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 9.38129496402878
+    },
+    {
+        "A": 36,
+        "B": 6267,
+        "C": "JEASHAN TANVIR HUSSAIN LASKAR",
+        "D": 1911003,
+        "E": "Civil Engineering",
+        "F": 6,
+        "G": 9.3695652173913
+    },
+    {
+        "A": 37,
+        "B": 6268,
+        "C": "MD. ARSHAD AHMED",
+        "D": 1912009,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.3695652173913
+    },
+    {
+        "A": 38,
+        "B": 6269,
+        "C": "ANURAG SARASWAT",
+        "D": 1912079,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.3695652173913
+    },
+    {
+        "A": 39,
+        "B": 6270,
+        "C": "SHIKHAR KATIYAR",
+        "D": 1912109,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.3695652173913
+    },
+    {
+        "A": 40,
+        "B": 6271,
+        "C": "SUJOSH BARTHAKUR",
+        "D": 1915079,
+        "E": "Electronics and Instrumentation Engineering",
+        "F": 6,
+        "G": 9.36231884057971
+    },
+    {
+        "A": 41,
+        "B": 6272,
+        "C": "ANKIT SINGH",
+        "D": 1914172,
+        "E": "Electronics and Communication Engineering",
+        "F": 6,
+        "G": 9.35971223021583
+    },
+    {
+        "A": 42,
+        "B": 6273,
+        "C": "SOURABH SHAH",
+        "D": 1912158,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.35507246376812
+    },
+    {
+        "A": 43,
+        "B": 6274,
+        "C": "SOHAN KEWAT",
+        "D": 1913021,
+        "E": "Electrical Engineering",
+        "F": 6,
+        "G": 9.35251798561151
+    },
+    {
+        "A": 44,
+        "B": 6275,
+        "C": "ABHISHEK PANDEY",
+        "D": 1912168,
+        "E": "Computer Science and Engineering",
+        "F": 6,
+        "G": 9.34782608695652
+    },
+    {
+        "A": 45,
+        "B": 6276,
+        "C": "RISHI RAJ BHATTACHARJEE",
+        "D": 1916007,
+        "E": "Mechanical Engineering",
+        "F": 6,
+        "G": 9.34782608695652
+    }
+]
